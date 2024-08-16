@@ -1,6 +1,5 @@
 # Design of Dual Clock Asynchronous FIFO
 This project shows the design of Synchronous FIFO and Asynchronous FIFO
-![afifo-internals](https://github.com/Manikanta-IITB/Design_of_Synchronous_and_Asynchronous_FIFO/assets/138108630/83ba328d-fe6c-44f4-aaab-9af542738b18)
 ## Asynchronous FIFO
 <p align="justify">
   An Asynchronous FIFO (First-In-First-Out) is a type of digital circuit that facilitates data storage and transfer between two
